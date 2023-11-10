@@ -2,7 +2,7 @@ using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 
-
+//Решение от 18.01.22
 namespace RefactorMe
 {
     class Drawer
