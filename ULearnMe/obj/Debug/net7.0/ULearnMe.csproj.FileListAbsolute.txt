@@ -1,0 +1,4 @@
+D:\UlearnMeFirstPart\ULearnMe\obj\Debug\net7.0\ULearnMe.GeneratedMSBuildEditorConfig.editorconfig
+D:\UlearnMeFirstPart\ULearnMe\obj\Debug\net7.0\ULearnMe.AssemblyInfoInputs.cache
+D:\UlearnMeFirstPart\ULearnMe\obj\Debug\net7.0\ULearnMe.AssemblyInfo.cs
+D:\UlearnMeFirstPart\ULearnMe\obj\Debug\net7.0\ULearnMe.csproj.CoreCompileInputs.cache
